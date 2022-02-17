@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/algo-vizualizer/static/css/main.d4d43e5f.css",
+    "main.js": "/algo-vizualizer/static/js/main.c7a2a505.js",
+    "static/media/Logo.svg": "/algo-vizualizer/static/media/Logo.c5f034a62bdbd1bf5279a06610c6f288.svg",
+    "index.html": "/algo-vizualizer/index.html",
+    "main.d4d43e5f.css.map": "/algo-vizualizer/static/css/main.d4d43e5f.css.map",
+    "main.c7a2a505.js.map": "/algo-vizualizer/static/js/main.c7a2a505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d43e5f.css",
+    "static/js/main.c7a2a505.js"
+  ]
+}
