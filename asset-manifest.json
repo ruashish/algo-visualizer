@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/algo-visualizer/static/css/main.d4d43e5f.css",
-    "main.js": "/algo-visualizer/static/js/main.0c9dc70f.js",
+    "main.css": "/algo-visualizer/static/css/main.00e7d3e3.css",
+    "main.js": "/algo-visualizer/static/js/main.b1b9a591.js",
     "static/media/Logo.svg": "/algo-visualizer/static/media/Logo.c5f034a62bdbd1bf5279a06610c6f288.svg",
     "index.html": "/algo-visualizer/index.html",
-    "main.d4d43e5f.css.map": "/algo-visualizer/static/css/main.d4d43e5f.css.map",
-    "main.0c9dc70f.js.map": "/algo-visualizer/static/js/main.0c9dc70f.js.map"
+    "main.00e7d3e3.css.map": "/algo-visualizer/static/css/main.00e7d3e3.css.map",
+    "main.b1b9a591.js.map": "/algo-visualizer/static/js/main.b1b9a591.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4d43e5f.css",
-    "static/js/main.0c9dc70f.js"
+    "static/css/main.00e7d3e3.css",
+    "static/js/main.b1b9a591.js"
   ]
 }
